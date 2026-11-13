@@ -1,4 +1,4 @@
-# API REST de Vehículos · Serie 4
+# API REST de Vehículos
 
 API REST hecha con **Django REST Framework** y **MySQL** para el recurso **Vehículo**. Sin autenticación.
 
